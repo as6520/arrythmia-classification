@@ -2,6 +2,7 @@ Contributors: Ameya Shringi
 	      Vishal Garg
 
 === Requirements ===
+
 1. python2.7
 2. numpy
 3. tensor-flow
