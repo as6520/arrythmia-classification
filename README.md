@@ -1,4 +1,3 @@
-==== Project Name: Arrythmia Classification using ECG Signals ====
 Contributors: Ameya Shringi
 	      Vishal Garg
 
@@ -8,11 +7,12 @@ Contributors: Ameya Shringi
 3. tensor-flow
 4. scikit-learn
 5. skflow
-5. files: ecg_attribute.csv, ecg_data.csv,test_attribute.csv, train_attribute.csv, train_data.csv
-	test_data.csv
+5. files: ecg_attribute.csv, ecg_data.csv
 6. folder: csv-data
 
 === Execution ===
+
+ecg_attribute.csv and ecg_data.csv are available on https://drive.google.com/file/d/0ByB15PfVXhlzV2JCOE9hUU9mZG8/view?usp=sharing
 
 To make Training and Testing dataset: python MakeTrainSet.py
 
